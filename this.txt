@@ -1,0 +1,5 @@
+version 1 of the project
+This line is coming in commit 2 of the git repoository
+changed version again 3rd time
+
+This is changed again for chapter 9
